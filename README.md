@@ -1,2 +1,2 @@
-# Node.js-MySQL
-Bamazon application making use of Node.js and Mysql
+The Bamazon application makes use of Node.js and Mysql
+The Bamazon Customer Portal allows users to view the current items available for buy. The user will be prompted to enter the item id# and how many items they wish to purchase. If the item is in stock, the order will be completed and the user will see the total amount of their purchase.This application implements a simple command line based storefront using the npm inquirer package and the MySQL database backend together with the npm mysql package.   
